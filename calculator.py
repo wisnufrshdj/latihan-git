@@ -1,6 +1,11 @@
 print("Selamat Datang di Calculator")
 a = 2
 b = 3
-print (a+b)
+c = a+b
+print(c)
+
+pembagian = a/b
+print(pembagian)
+
 perkalian = a*b
 print(perkalian)
