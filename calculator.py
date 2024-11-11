@@ -3,5 +3,9 @@ a = 2
 b = 3
 c = a+b
 print(c)
-perkalian = a/b
+
+pembagian = a/b
 print(pembagian)
+
+perkalian = a*b
+print(perkalian)
